@@ -1,0 +1,251 @@
+Name,Alpha-2 Code,Alpha-3 Code,Capital,Region,Subregion,Population,Area,Timezones,Currencies,Languages,Borders,Flag
+Afghanistan,AF,AFG,Kabul,Asia,Southern Asia,40218234,652230.0,['UTC+04:30'],['Afghan afghani'],"['Pashto', 'Uzbek', 'Turkmen']","['IRN', 'PAK', 'TKM', 'UZB', 'TJK', 'CHN']",https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg
+Åland Islands,AX,ALA,Mariehamn,Europe,Northern Europe,28875,1580.0,['UTC+02:00'],['Euro'],['Swedish'],,https://flagcdn.com/ax.svg
+Albania,AL,ALB,Tirana,Europe,Southern Europe,2837743,28748.0,['UTC+01:00'],['Albanian lek'],['Albanian'],"['MNE', 'GRC', 'MKD', 'UNK']",https://flagcdn.com/al.svg
+Algeria,DZ,DZA,Algiers,Africa,Northern Africa,44700000,2381741.0,['UTC+01:00'],['Algerian dinar'],['Arabic'],"['TUN', 'LBY', 'NER', 'ESH', 'MRT', 'MLI', 'MAR']",https://flagcdn.com/dz.svg
+American Samoa,AS,ASM,Pago Pago,Oceania,Polynesia,55197,199.0,['UTC-11:00'],['United States Dollar'],"['English', 'Samoan']",,https://flagcdn.com/as.svg
+Andorra,AD,AND,Andorra la Vella,Europe,Southern Europe,77265,468.0,['UTC+01:00'],['Euro'],['Catalan'],"['FRA', 'ESP']",https://flagcdn.com/ad.svg
+Angola,AO,AGO,Luanda,Africa,Middle Africa,32866268,1246700.0,['UTC+01:00'],['Angolan kwanza'],['Portuguese'],"['COG', 'COD', 'ZMB', 'NAM']",https://flagcdn.com/ao.svg
+Anguilla,AI,AIA,The Valley,Americas,Caribbean,13452,91.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/ai.svg
+Antarctica,AQ,ATA,,Polar,Antarctica,1000,14000000.0,"['UTC-03:00', 'UTC+03:00', 'UTC+05:00', 'UTC+06:00', 'UTC+07:00', 'UTC+08:00', 'UTC+10:00', 'UTC+12:00']",,"['English', 'Russian']",,https://flagcdn.com/aq.svg
+Antigua and Barbuda,AG,ATG,Saint John's,Americas,Caribbean,97928,442.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/ag.svg
+Argentina,AR,ARG,Buenos Aires,Americas,South America,45376763,2780400.0,['UTC-03:00'],['Argentine peso'],"['Spanish', 'Guaraní']","['BOL', 'BRA', 'CHL', 'PRY', 'URY']",https://flagcdn.com/ar.svg
+Armenia,AM,ARM,Yerevan,Asia,Western Asia,2963234,29743.0,['UTC+04:00'],['Armenian dram'],['Armenian'],"['AZE', 'GEO', 'IRN', 'TUR']",https://flagcdn.com/am.svg
+Aruba,AW,ABW,Oranjestad,Americas,Caribbean,106766,180.0,['UTC-04:00'],['Aruban florin'],"['Dutch', '(Eastern) Punjabi']",,https://flagcdn.com/aw.svg
+Australia,AU,AUS,Canberra,Oceania,Australia and New Zealand,25687041,7692024.0,"['UTC+05:00', 'UTC+06:30', 'UTC+07:00', 'UTC+08:00', 'UTC+09:30', 'UTC+10:00', 'UTC+10:30', 'UTC+11:30']",['Australian dollar'],['English'],,https://flagcdn.com/au.svg
+Austria,AT,AUT,Vienna,Europe,Central Europe,8917205,83871.0,['UTC+01:00'],['Euro'],['German'],"['CZE', 'DEU', 'HUN', 'ITA', 'LIE', 'SVK', 'SVN', 'CHE']",https://flagcdn.com/at.svg
+Azerbaijan,AZ,AZE,Baku,Asia,Western Asia,10110116,86600.0,['UTC+04:00'],['Azerbaijani manat'],['Azerbaijani'],"['ARM', 'GEO', 'IRN', 'RUS', 'TUR']",https://flagcdn.com/az.svg
+Bahamas,BS,BHS,Nassau,Americas,Caribbean,393248,13943.0,['UTC-05:00'],['Bahamian dollar'],['English'],,https://flagcdn.com/bs.svg
+Bahrain,BH,BHR,Manama,Asia,Western Asia,1701583,765.0,['UTC+03:00'],['Bahraini dinar'],['Arabic'],,https://flagcdn.com/bh.svg
+Bangladesh,BD,BGD,Dhaka,Asia,Southern Asia,164689383,147570.0,['UTC+06:00'],['Bangladeshi taka'],['Bengali'],"['MMR', 'IND']",https://flagcdn.com/bd.svg
+Barbados,BB,BRB,Bridgetown,Americas,Caribbean,287371,430.0,['UTC-04:00'],['Barbadian dollar'],['English'],,https://flagcdn.com/bb.svg
+Belarus,BY,BLR,Minsk,Europe,Eastern Europe,9398861,207600.0,['UTC+03:00'],"['New Belarusian ruble', 'Old Belarusian ruble']","['Belarusian', 'Russian']","['LVA', 'LTU', 'POL', 'RUS', 'UKR']",https://flagcdn.com/by.svg
+Belgium,BE,BEL,Brussels,Europe,Western Europe,11555997,30528.0,['UTC+01:00'],['Euro'],"['Dutch', 'French', 'German']","['FRA', 'DEU', 'LUX', 'NLD']",https://flagcdn.com/be.svg
+Belize,BZ,BLZ,Belmopan,Americas,Central America,397621,22966.0,['UTC-06:00'],['Belize dollar'],"['English', 'Spanish']","['GTM', 'MEX']",https://flagcdn.com/bz.svg
+Benin,BJ,BEN,Porto-Novo,Africa,Western Africa,12123198,112622.0,['UTC+01:00'],['West African CFA franc'],['French'],"['BFA', 'NER', 'NGA', 'TGO']",https://flagcdn.com/bj.svg
+Bermuda,BM,BMU,Hamilton,Americas,Northern America,63903,54.0,['UTC-04:00'],['Bermudian dollar'],['English'],,https://flagcdn.com/bm.svg
+Bhutan,BT,BTN,Thimphu,Asia,Southern Asia,771612,38394.0,['UTC+06:00'],"['Bhutanese ngultrum', 'Indian rupee']",['Dzongkha'],"['CHN', 'IND']",https://flagcdn.com/bt.svg
+Bolivia (Plurinational State of),BO,BOL,Sucre,Americas,South America,11673029,1098581.0,['UTC-04:00'],['Bolivian boliviano'],"['Spanish', 'Aymara', 'Quechua']","['ARG', 'BRA', 'CHL', 'PRY', 'PER']",https://flagcdn.com/bo.svg
+"Bonaire, Sint Eustatius and Saba",BQ,BES,Kralendijk,Americas,Caribbean,17408,294.0,['UTC-04:00'],['United States dollar'],['Dutch'],,https://flagcdn.com/bq.svg
+Bosnia and Herzegovina,BA,BIH,Sarajevo,Europe,Southern Europe,3280815,51209.0,['UTC+01:00'],['Bosnia and Herzegovina convertible mark'],"['Bosnian', 'Croatian', 'Serbian']","['HRV', 'MNE', 'SRB']",https://flagcdn.com/ba.svg
+Botswana,BW,BWA,Gaborone,Africa,Southern Africa,2351625,582000.0,['UTC+02:00'],['Botswana pula'],"['English', 'Tswana']","['NAM', 'ZAF', 'ZMB', 'ZWE']",https://flagcdn.com/bw.svg
+Bouvet Island,BV,BVT,,Antarctic Ocean,South Antarctic Ocean,0,49.0,['UTC+01:00'],['Norwegian krone'],"['Norwegian', 'Norwegian Bokmål', 'Norwegian Nynorsk']",,https://flagcdn.com/bv.svg
+Brazil,BR,BRA,Brasília,Americas,South America,212559409,8515767.0,"['UTC-05:00', 'UTC-04:00', 'UTC-03:00', 'UTC-02:00']",['Brazilian real'],['Portuguese'],"['ARG', 'BOL', 'COL', 'FRA', 'GUF', 'GUY', 'PRY', 'PER', 'SUR', 'URY', 'VEN']",https://flagcdn.com/br.svg
+British Indian Ocean Territory,IO,IOT,Diego Garcia,Africa,Eastern Africa,3000,60.0,['UTC+06:00'],['United States dollar'],['English'],,https://flagcdn.com/io.svg
+United States Minor Outlying Islands,UM,UMI,,Americas,Northern America,300,,"['UTC-11:00', 'UTC-10:00', 'UTC+12:00']",['British pound'],['English'],,https://flagcdn.com/um.svg
+Virgin Islands (British),VG,VGB,Road Town,Americas,Caribbean,30237,151.0,['UTC-04:00'],['United States dollar'],['English'],,https://flagcdn.com/vg.svg
+Virgin Islands (U.S.),VI,VIR,Charlotte Amalie,Americas,Caribbean,106290,346.36,['UTC-04:00'],['United States dollar'],['English'],,https://flagcdn.com/vi.svg
+Brunei Darussalam,BN,BRN,Bandar Seri Begawan,Asia,South-Eastern Asia,437483,5765.0,['UTC+08:00'],"['Brunei dollar', 'Singapore dollar']",['Malay'],['MYS'],https://flagcdn.com/bn.svg
+Bulgaria,BG,BGR,Sofia,Europe,Eastern Europe,6927288,110879.0,['UTC+02:00'],['Bulgarian lev'],['Bulgarian'],"['GRC', 'MKD', 'ROU', 'SRB', 'TUR']",https://flagcdn.com/bg.svg
+Burkina Faso,BF,BFA,Ouagadougou,Africa,Western Africa,20903278,272967.0,['UTC'],['West African CFA franc'],"['French', 'Fula']","['BEN', 'CIV', 'GHA', 'MLI', 'NER', 'TGO']",https://flagcdn.com/bf.svg
+Burundi,BI,BDI,Gitega,Africa,Eastern Africa,11890781,27834.0,['UTC+02:00'],['Burundian franc'],"['French', 'Kirundi']","['COD', 'RWA', 'TZA']",https://flagcdn.com/bi.svg
+Cambodia,KH,KHM,Phnom Penh,Asia,South-Eastern Asia,16718971,181035.0,['UTC+07:00'],"['Cambodian riel', 'United States dollar']",['Khmer'],"['LAO', 'THA', 'VNM']",https://flagcdn.com/kh.svg
+Cameroon,CM,CMR,Yaoundé,Africa,Middle Africa,26545864,475442.0,['UTC+01:00'],['Central African CFA franc'],"['English', 'French']","['CAF', 'TCD', 'COG', 'GNQ', 'GAB', 'NGA']",https://flagcdn.com/cm.svg
+Canada,CA,CAN,Ottawa,Americas,Northern America,38005238,9984670.0,"['UTC-08:00', 'UTC-07:00', 'UTC-06:00', 'UTC-05:00', 'UTC-04:00', 'UTC-03:30']",['Canadian dollar'],"['English', 'French']",['USA'],https://flagcdn.com/ca.svg
+Cabo Verde,CV,CPV,Praia,Africa,Western Africa,555988,4033.0,['UTC-01:00'],['Cape Verdean escudo'],['Portuguese'],,https://flagcdn.com/cv.svg
+Cayman Islands,KY,CYM,George Town,Americas,Caribbean,65720,264.0,['UTC-05:00'],['Cayman Islands dollar'],['English'],,https://flagcdn.com/ky.svg
+Central African Republic,CF,CAF,Bangui,Africa,Middle Africa,4829764,622984.0,['UTC+01:00'],['Central African CFA franc'],"['French', 'Sango']","['CMR', 'TCD', 'COD', 'COG', 'SSD', 'SDN']",https://flagcdn.com/cf.svg
+Chad,TD,TCD,N'Djamena,Africa,Middle Africa,16425859,1284000.0,['UTC+01:00'],['Central African CFA franc'],"['French', 'Arabic']","['CMR', 'CAF', 'LBY', 'NER', 'NGA', 'SDN']",https://flagcdn.com/td.svg
+Chile,CL,CHL,Santiago,Americas,South America,19116209,756102.0,"['UTC-06:00', 'UTC-04:00']",['Chilean peso'],['Spanish'],"['ARG', 'BOL', 'PER']",https://flagcdn.com/cl.svg
+China,CN,CHN,Beijing,Asia,Eastern Asia,1402112000,9640011.0,['UTC+08:00'],['Chinese yuan'],['Chinese'],"['AFG', 'BTN', 'MMR', 'HKG', 'IND', 'KAZ', 'PRK', 'KGZ', 'LAO', 'MAC', 'MNG', 'PAK', 'RUS', 'TJK', 'VNM', 'NPL']",https://flagcdn.com/cn.svg
+Christmas Island,CX,CXR,Flying Fish Cove,Oceania,Australia and New Zealand,2072,135.0,['UTC+07:00'],['Australian dollar'],['English'],,https://flagcdn.com/cx.svg
+Cocos (Keeling) Islands,CC,CCK,West Island,Oceania,Australia and New Zealand,550,14.0,['UTC+06:30'],['Australian dollar'],['English'],,https://flagcdn.com/cc.svg
+Colombia,CO,COL,Bogotá,Americas,South America,50882884,1141748.0,['UTC-05:00'],['Colombian peso'],['Spanish'],"['BRA', 'ECU', 'PAN', 'PER', 'VEN']",https://flagcdn.com/co.svg
+Comoros,KM,COM,Moroni,Africa,Eastern Africa,869595,1862.0,['UTC+03:00'],['Comorian franc'],"['Arabic', 'French']",,https://flagcdn.com/km.svg
+Congo,CG,COG,Brazzaville,Africa,Middle Africa,5518092,342000.0,['UTC+01:00'],['Central African CFA franc'],"['French', 'Lingala']","['AGO', 'CMR', 'CAF', 'COD', 'GAB']",https://flagcdn.com/cg.svg
+Congo (Democratic Republic of the),CD,COD,Kinshasa,Africa,Middle Africa,89561404,2344858.0,"['UTC+01:00', 'UTC+02:00']",['Congolese franc'],"['French', 'Lingala', 'Kongo', 'Swahili', 'Luba-Katanga']","['AGO', 'BDI', 'CAF', 'COG', 'RWA', 'SSD', 'TZA', 'UGA', 'ZMB']",https://flagcdn.com/cd.svg
+Cook Islands,CK,COK,Avarua,Oceania,Polynesia,18100,236.0,['UTC-10:00'],"['New Zealand dollar', 'Cook Islands dollar']","['English', 'Cook Islands Māori']",,https://flagcdn.com/ck.svg
+Costa Rica,CR,CRI,San José,Americas,Central America,5094114,51100.0,['UTC-06:00'],['Costa Rican colón'],['Spanish'],"['NIC', 'PAN']",https://flagcdn.com/cr.svg
+Croatia,HR,HRV,Zagreb,Europe,Southern Europe,4047200,56594.0,['UTC+01:00'],['Euro'],['Croatian'],"['BIH', 'HUN', 'MNE', 'SRB', 'SVN']",https://flagcdn.com/hr.svg
+Cuba,CU,CUB,Havana,Americas,Caribbean,11326616,109884.0,['UTC-05:00'],"['Cuban convertible peso', 'Cuban peso']",['Spanish'],,https://flagcdn.com/cu.svg
+Curaçao,CW,CUW,Willemstad,Americas,Caribbean,155014,444.0,['UTC-04:00'],['Netherlands Antillean guilder'],"['Dutch', '(Eastern) Punjabi', 'English']",,https://flagcdn.com/cw.svg
+Cyprus,CY,CYP,Nicosia,Europe,Southern Europe,1207361,9251.0,['UTC+02:00'],['Euro'],"['Greek (modern)', 'Turkish', 'Armenian']",['GBR'],https://flagcdn.com/cy.svg
+Czech Republic,CZ,CZE,Prague,Europe,Central Europe,10698896,78865.0,['UTC+01:00'],['Czech koruna'],"['Czech', 'Slovak']",,https://flagcdn.com/cz.svg
+Denmark,DK,DNK,Copenhagen,Europe,Northern Europe,5831404,43094.0,"['UTC-04:00', 'UTC-03:00', 'UTC-01:00', 'UTC', 'UTC+01:00']",['Danish krone'],['Danish'],['DEU'],https://flagcdn.com/dk.svg
+Djibouti,DJ,DJI,Djibouti,Africa,Eastern Africa,988002,23200.0,['UTC+03:00'],['Djiboutian franc'],"['French', 'Arabic']","['ERI', 'ETH', 'SOM']",https://flagcdn.com/dj.svg
+Dominica,DM,DMA,Roseau,Americas,Caribbean,71991,751.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/dm.svg
+Dominican Republic,DO,DOM,Santo Domingo,Americas,Caribbean,10847904,48671.0,['UTC-04:00'],['Dominican peso'],['Spanish'],['HTI'],https://flagcdn.com/do.svg
+Ecuador,EC,ECU,Quito,Americas,South America,17643060,276841.0,"['UTC-06:00', 'UTC-05:00']",['United States dollar'],['Spanish'],"['COL', 'PER']",https://flagcdn.com/ec.svg
+Egypt,EG,EGY,Cairo,Africa,Northern Africa,102334403,1002450.0,['UTC+02:00'],['Egyptian pound'],['Arabic'],"['ISR', 'LBY', 'SDN']",https://flagcdn.com/eg.svg
+El Salvador,SV,SLV,San Salvador,Americas,Central America,6486201,21041.0,['UTC-06:00'],['United States dollar'],['Spanish'],"['GTM', 'HND']",https://flagcdn.com/sv.svg
+Equatorial Guinea,GQ,GNQ,Malabo,Africa,Middle Africa,1402985,28051.0,['UTC+01:00'],['Central African CFA franc'],"['Spanish', 'French', 'Portuguese', 'Fang']","['CMR', 'GAB']",https://flagcdn.com/gq.svg
+Eritrea,ER,ERI,Asmara,Africa,Eastern Africa,5352000,117600.0,['UTC+03:00'],['Eritrean nakfa'],"['Tigrinya', 'Arabic', 'English', 'Tigre', 'Kunama', 'Saho', 'Bilen', 'Nara', 'Afar']","['DJI', 'ETH', 'SDN']",https://flagcdn.com/er.svg
+Estonia,EE,EST,Tallinn,Europe,Northern Europe,1331057,45227.0,['UTC+02:00'],['Euro'],['Estonian'],"['LVA', 'RUS']",https://flagcdn.com/ee.svg
+Ethiopia,ET,ETH,Addis Ababa,Africa,Eastern Africa,114963583,1104300.0,['UTC+03:00'],['Ethiopian birr'],['Amharic'],"['DJI', 'ERI', 'KEN', 'SOM', 'SSD', 'SDN']",https://flagcdn.com/et.svg
+Falkland Islands (Malvinas),FK,FLK,Stanley,Americas,South America,2563,12173.0,['UTC-04:00'],['Falkland Islands pound'],['English'],,https://flagcdn.com/fk.svg
+Faroe Islands,FO,FRO,Tórshavn,Europe,Northern Europe,48865,1393.0,['UTC+00:00'],"['Danish krone', 'Faroese króna']",['Faroese'],,https://flagcdn.com/fo.svg
+Fiji,FJ,FJI,Suva,Oceania,Melanesia,896444,18272.0,['UTC+12:00'],['Fijian dollar'],"['English', 'Fijian', 'Fiji Hindi', 'Rotuman']",,https://flagcdn.com/fj.svg
+Finland,FI,FIN,Helsinki,Europe,Northern Europe,5530719,338424.0,['UTC+02:00'],['Euro'],"['Finnish', 'Swedish']","['NOR', 'SWE', 'RUS']",https://flagcdn.com/fi.svg
+France,FR,FRA,Paris,Europe,Western Europe,67391582,640679.0,"['UTC-10:00', 'UTC-09:30', 'UTC-09:00', 'UTC-08:00', 'UTC-04:00', 'UTC-03:00', 'UTC+01:00', 'UTC+02:00', 'UTC+03:00', 'UTC+04:00', 'UTC+05:00', 'UTC+10:00', 'UTC+11:00', 'UTC+12:00']",['Euro'],['French'],"['AND', 'BEL', 'DEU', 'ITA', 'LUX', 'MCO', 'ESP', 'CHE']",https://flagcdn.com/fr.svg
+French Guiana,GF,GUF,Cayenne,Americas,South America,254541,,['UTC-03:00'],['Euro'],['French'],"['BRA', 'SUR']",https://flagcdn.com/gf.svg
+French Polynesia,PF,PYF,Papeetē,Oceania,Polynesia,280904,4167.0,"['UTC-10:00', 'UTC-09:30', 'UTC-09:00']",['CFP franc'],['French'],,https://flagcdn.com/pf.svg
+French Southern Territories,TF,ATF,Port-aux-Français,Africa,Southern Africa,140,7747.0,['UTC+05:00'],['Euro'],['French'],,https://flagcdn.com/tf.svg
+Gabon,GA,GAB,Libreville,Africa,Middle Africa,2225728,267668.0,['UTC+01:00'],['Central African CFA franc'],['French'],"['CMR', 'COG', 'GNQ']",https://flagcdn.com/ga.svg
+Gambia,GM,GMB,Banjul,Africa,Western Africa,2416664,11295.0,['UTC+00:00'],['Gambian dalasi'],['English'],['SEN'],https://flagcdn.com/gm.svg
+Georgia,GE,GEO,Tbilisi,Asia,Western Asia,3714000,69700.0,['UTC-04:00'],['Georgian Lari'],['Georgian'],"['ARM', 'AZE', 'RUS', 'TUR']",https://flagcdn.com/ge.svg
+Germany,DE,DEU,Berlin,Europe,Central Europe,83240525,357114.0,['UTC+01:00'],['Euro'],['German'],"['AUT', 'BEL', 'CZE', 'DNK', 'FRA', 'LUX', 'NLD', 'POL', 'CHE']",https://flagcdn.com/de.svg
+Ghana,GH,GHA,Accra,Africa,Western Africa,31072945,238533.0,['UTC'],['Ghanaian cedi'],['English'],"['BFA', 'CIV', 'TGO']",https://flagcdn.com/gh.svg
+Gibraltar,GI,GIB,Gibraltar,Europe,Southern Europe,33691,6.0,['UTC+01:00'],['Gibraltar pound'],['English'],['ESP'],https://flagcdn.com/gi.svg
+Greece,GR,GRC,Athens,Europe,Southern Europe,10715549,131990.0,['UTC+02:00'],['Euro'],['Greek (modern)'],"['ALB', 'BGR', 'TUR', 'MKD']",https://flagcdn.com/gr.svg
+Greenland,GL,GRL,Nuuk,Americas,Northern America,56367,2166086.0,"['UTC-04:00', 'UTC-03:00', 'UTC-01:00', 'UTC+00:00']",['Danish krone'],['Greenlandic'],,https://flagcdn.com/gl.svg
+Grenada,GD,GRD,St. George's,Americas,Caribbean,112519,344.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/gd.svg
+Guadeloupe,GP,GLP,Basse-Terre,Americas,Caribbean,400132,,['UTC-04:00'],['Euro'],['French'],,https://flagcdn.com/gp.svg
+Guam,GU,GUM,Hagåtña,Oceania,Micronesia,168783,549.0,['UTC+10:00'],['United States dollar'],"['English', 'Chamorro', 'Spanish']",,https://flagcdn.com/gu.svg
+Guatemala,GT,GTM,Guatemala City,Americas,Central America,16858333,108889.0,['UTC-06:00'],['Guatemalan quetzal'],['Spanish'],"['BLZ', 'SLV', 'HND', 'MEX']",https://flagcdn.com/gt.svg
+Guernsey,GG,GGY,St. Peter Port,Europe,Northern Europe,62999,78.0,['UTC+00:00'],"['British pound', 'Guernsey pound']","['English', 'French']",,https://flagcdn.com/gg.svg
+Guinea,GN,GIN,Conakry,Africa,Western Africa,13132792,245857.0,['UTC'],['Guinean franc'],"['French', 'Fula']","['CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE']",https://flagcdn.com/gn.svg
+Guinea-Bissau,GW,GNB,Bissau,Africa,Western Africa,1967998,36125.0,['UTC'],['West African CFA franc'],['Portuguese'],"['GIN', 'SEN']",https://flagcdn.com/gw.svg
+Guyana,GY,GUY,Georgetown,Americas,South America,786559,214969.0,['UTC-04:00'],['Guyanese dollar'],['English'],"['BRA', 'SUR', 'VEN']",https://flagcdn.com/gy.svg
+Haiti,HT,HTI,Port-au-Prince,Americas,Caribbean,11402533,27750.0,['UTC-05:00'],['Haitian gourde'],"['French', 'Haitian']",['DOM'],https://flagcdn.com/ht.svg
+Heard Island and McDonald Islands,HM,HMD,,Antarctic,Antarctic,0,412.0,['UTC+05:00'],['Australian dollar'],['English'],,https://flagcdn.com/hm.svg
+Vatican City,VA,VAT,Vatican City,Europe,Southern Europe,451,0.44,['UTC+01:00'],['Euro'],"['Latin', 'Italian', 'French', 'German']",['ITA'],https://flagcdn.com/va.svg
+Honduras,HN,HND,Tegucigalpa,Americas,Central America,9904608,112492.0,['UTC-06:00'],['Honduran lempira'],['Spanish'],"['GTM', 'SLV', 'NIC']",https://flagcdn.com/hn.svg
+Hungary,HU,HUN,Budapest,Europe,Central Europe,9749763,93028.0,['UTC+01:00'],['Hungarian forint'],['Hungarian'],"['AUT', 'HRV', 'ROU', 'SRB', 'SVK', 'SVN', 'UKR']",https://flagcdn.com/hu.svg
+Hong Kong,HK,HKG,City of Victoria,Asia,Eastern Asia,7481800,1104.0,['UTC+08:00'],['Hong Kong dollar'],"['English', 'Chinese']",['CHN'],https://flagcdn.com/hk.svg
+Iceland,IS,ISL,Reykjavík,Europe,Northern Europe,366425,103000.0,['UTC'],['Icelandic króna'],['Icelandic'],,https://flagcdn.com/is.svg
+India,IN,IND,New Delhi,Asia,Southern Asia,1380004385,3287590.0,['UTC+05:30'],['Indian rupee'],"['Hindi', 'English']","['AFG', 'BGD', 'BTN', 'MMR', 'CHN', 'NPL', 'PAK', 'LKA']",https://flagcdn.com/in.svg
+Indonesia,ID,IDN,Jakarta,Asia,South-Eastern Asia,273523621,1904569.0,"['UTC+07:00', 'UTC+08:00', 'UTC+09:00']",['Indonesian rupiah'],['Indonesian'],"['TLS', 'MYS', 'PNG']",https://flagcdn.com/id.svg
+Ivory Coast,CI,CIV,Yamoussoukro,Africa,Western Africa,26378275,322463.0,['UTC'],['West African CFA franc'],['French'],"['BFA', 'GHA', 'GIN', 'LBR', 'MLI']",https://flagcdn.com/ci.svg
+Iran (Islamic Republic of),IR,IRN,Tehran,Asia,Southern Asia,83992953,1648195.0,['UTC+03:30'],['Iranian rial'],['Persian (Farsi)'],"['AFG', 'ARM', 'AZE', 'IRQ', 'PAK', 'TUR', 'TKM']",https://flagcdn.com/ir.svg
+Iraq,IQ,IRQ,Baghdad,Asia,Western Asia,40222503,438317.0,['UTC+03:00'],['Iraqi dinar'],"['Arabic', 'Kurdish']","['IRN', 'JOR', 'KWT', 'SAU', 'SYR', 'TUR']",https://flagcdn.com/iq.svg
+Ireland,IE,IRL,Dublin,Europe,Northern Europe,4994724,70273.0,['UTC'],['Euro'],"['Irish', 'English']",['GBR'],https://flagcdn.com/ie.svg
+Isle of Man,IM,IMN,Douglas,Europe,Northern Europe,85032,572.0,['UTC+00:00'],"['British pound', 'Manx pound']","['English', 'Manx']",,https://flagcdn.com/im.svg
+Israel,IL,ISR,Jerusalem,Asia,Western Asia,9216900,20770.0,['UTC+02:00'],['Israeli new shekel'],"['Hebrew (modern)', 'Arabic']","['EGY', 'JOR', 'LBN', 'SYR']",https://flagcdn.com/il.svg
+Italy,IT,ITA,Rome,Europe,Southern Europe,59554023,301336.0,['UTC+01:00'],['Euro'],['Italian'],"['AUT', 'FRA', 'SMR', 'SVN', 'CHE', 'VAT']",https://flagcdn.com/it.svg
+Jamaica,JM,JAM,Kingston,Americas,Caribbean,2961161,10991.0,['UTC-05:00'],['Jamaican dollar'],['English'],,https://flagcdn.com/jm.svg
+Japan,JP,JPN,Tokyo,Asia,Eastern Asia,125836021,377930.0,['UTC+09:00'],['Japanese yen'],['Japanese'],,https://flagcdn.com/jp.svg
+Jersey,JE,JEY,Saint Helier,Europe,Northern Europe,100800,116.0,['UTC+01:00'],"['British pound', 'Jersey pound']","['English', 'French']",,https://flagcdn.com/je.svg
+Jordan,JO,JOR,Amman,Asia,Western Asia,10203140,89342.0,['UTC+03:00'],['Jordanian dinar'],['Arabic'],"['IRQ', 'ISR', 'SAU', 'SYR']",https://flagcdn.com/jo.svg
+Kazakhstan,KZ,KAZ,Nur-Sultan,Asia,Central Asia,18754440,2724900.0,"['UTC+05:00', 'UTC+06:00']",['Kazakhstani tenge'],"['Kazakh', 'Russian']","['CHN', 'KGZ', 'RUS', 'TKM', 'UZB']",https://flagcdn.com/kz.svg
+Kenya,KE,KEN,Nairobi,Africa,Eastern Africa,53771300,580367.0,['UTC+03:00'],['Kenyan shilling'],"['English', 'Swahili']","['ETH', 'SOM', 'SSD', 'TZA', 'UGA']",https://flagcdn.com/ke.svg
+Kiribati,KI,KIR,South Tarawa,Oceania,Micronesia,119446,811.0,"['UTC+12:00', 'UTC+13:00', 'UTC+14:00']","['Australian dollar', 'Kiribati dollar']",['English'],,https://flagcdn.com/ki.svg
+Kuwait,KW,KWT,Kuwait City,Asia,Western Asia,4270563,17818.0,['UTC+03:00'],['Kuwaiti dinar'],['Arabic'],"['IRQ', 'SAU']",https://flagcdn.com/kw.svg
+Kyrgyzstan,KG,KGZ,Bishkek,Asia,Central Asia,6591600,199951.0,['UTC+06:00'],['Kyrgyzstani som'],"['Kyrgyz', 'Russian']","['CHN', 'KAZ', 'TJK', 'UZB']",https://flagcdn.com/kg.svg
+Lao People's Democratic Republic,LA,LAO,Vientiane,Asia,South-Eastern Asia,7275556,236800.0,['UTC+07:00'],['Lao kip'],['Lao'],"['MMR', 'KHM', 'CHN', 'THA', 'VNM']",https://flagcdn.com/la.svg
+Latvia,LV,LVA,Riga,Europe,Northern Europe,1901548,64559.0,['UTC+02:00'],['Euro'],['Latvian'],"['BLR', 'EST', 'LTU', 'RUS']",https://flagcdn.com/lv.svg
+Lebanon,LB,LBN,Beirut,Asia,Western Asia,6825442,10452.0,['UTC+02:00'],['Lebanese pound'],"['Arabic', 'French']","['ISR', 'SYR']",https://flagcdn.com/lb.svg
+Lesotho,LS,LSO,Maseru,Africa,Southern Africa,2142252,30355.0,['UTC+02:00'],"['Lesotho loti', 'South African rand']","['English', 'Southern Sotho']",['ZAF'],https://flagcdn.com/ls.svg
+Liberia,LR,LBR,Monrovia,Africa,Western Africa,5057677,111369.0,['UTC'],['Liberian dollar'],['English'],"['GIN', 'CIV', 'SLE']",https://flagcdn.com/lr.svg
+Libya,LY,LBY,Tripoli,Africa,Northern Africa,6871287,1759540.0,['UTC+01:00'],['Libyan dinar'],['Arabic'],"['DZA', 'TCD', 'EGY', 'NER', 'SDN', 'TUN']",https://flagcdn.com/ly.svg
+Liechtenstein,LI,LIE,Vaduz,Europe,Central Europe,38137,160.0,['UTC+01:00'],['Swiss franc'],['German'],"['AUT', 'CHE']",https://flagcdn.com/li.svg
+Lithuania,LT,LTU,Vilnius,Europe,Northern Europe,2794700,65300.0,['UTC+02:00'],['Euro'],['Lithuanian'],"['BLR', 'LVA', 'POL', 'RUS']",https://flagcdn.com/lt.svg
+Luxembourg,LU,LUX,Luxembourg,Europe,Western Europe,632275,2586.0,['UTC+01:00'],['Euro'],"['French', 'German', 'Luxembourgish']","['BEL', 'FRA', 'DEU']",https://flagcdn.com/lu.svg
+Macao,MO,MAC,,Asia,Eastern Asia,649342,30.0,['UTC+08:00'],['Macanese pataca'],"['Chinese', 'Portuguese']",['CHN'],https://flagcdn.com/mo.svg
+North Macedonia,MK,MKD,Skopje,Europe,Southern Europe,2083380,25713.0,['UTC+01:00'],['Macedonian denar'],['Macedonian'],"['ALB', 'BGR', 'GRC', 'UNK', 'SRB']",https://flagcdn.com/mk.svg
+Madagascar,MG,MDG,Antananarivo,Africa,Eastern Africa,27691019,587041.0,['UTC+03:00'],['Malagasy ariary'],"['French', 'Malagasy']",,https://flagcdn.com/mg.svg
+Malawi,MW,MWI,Lilongwe,Africa,Eastern Africa,19129955,118484.0,['UTC+02:00'],['Malawian kwacha'],"['English', 'Chichewa']","['MOZ', 'TZA', 'ZMB']",https://flagcdn.com/mw.svg
+Malaysia,MY,MYS,Kuala Lumpur,Asia,South-Eastern Asia,32365998,330803.0,['UTC+08:00'],['Malaysian ringgit'],['Malaysian'],"['BRN', 'IDN', 'THA']",https://flagcdn.com/my.svg
+Maldives,MV,MDV,Malé,Asia,Southern Asia,540542,300.0,['UTC+05:00'],['Maldivian rufiyaa'],['Divehi'],,https://flagcdn.com/mv.svg
+Mali,ML,MLI,Bamako,Africa,Western Africa,20250834,1240192.0,['UTC'],['West African CFA franc'],['French'],"['DZA', 'BFA', 'GIN', 'CIV', 'MRT', 'NER', 'SEN']",https://flagcdn.com/ml.svg
+Malta,MT,MLT,Valletta,Europe,Southern Europe,525285,316.0,['UTC+01:00'],['Euro'],"['Maltese', 'English']",,https://flagcdn.com/mt.svg
+Marshall Islands,MH,MHL,Majuro,Oceania,Micronesia,59194,181.0,['UTC+12:00'],['United States dollar'],"['English', 'Marshallese']",,https://flagcdn.com/mh.svg
+Martinique,MQ,MTQ,Fort-de-France,Americas,Caribbean,378243,,['UTC-04:00'],['Euro'],['French'],,https://flagcdn.com/mq.svg
+Mauritania,MR,MRT,Nouakchott,Africa,Western Africa,4649660,1030700.0,['UTC'],['Mauritanian ouguiya'],['Arabic'],"['DZA', 'MLI', 'SEN', 'ESH']",https://flagcdn.com/mr.svg
+Mauritius,MU,MUS,Port Louis,Africa,Eastern Africa,1265740,2040.0,['UTC+04:00'],['Mauritian rupee'],['English'],,https://flagcdn.com/mu.svg
+Mayotte,YT,MYT,Mamoudzou,Africa,Eastern Africa,226915,,['UTC+03:00'],['Euro'],['French'],,https://flagcdn.com/yt.svg
+Mexico,MX,MEX,Mexico City,Americas,North America,128932753,1964375.0,"['UTC-08:00', 'UTC-07:00', 'UTC-06:00']",['Mexican peso'],['Spanish'],"['BLZ', 'GTM', 'USA']",https://flagcdn.com/mx.svg
+Micronesia (Federated States of),FM,FSM,Palikir,Oceania,Micronesia,115021,702.0,"['UTC+10:00', 'UTC+11:00']",['United States dollar'],['English'],,https://flagcdn.com/fm.svg
+Moldova (Republic of),MD,MDA,Chișinău,Europe,Eastern Europe,2617820,33846.0,['UTC+02:00'],['Moldovan leu'],['Romanian'],"['ROU', 'UKR']",https://flagcdn.com/md.svg
+Monaco,MC,MCO,Monaco,Europe,Western Europe,39244,2.02,['UTC+01:00'],['Euro'],['French'],['FRA'],https://flagcdn.com/mc.svg
+Mongolia,MN,MNG,Ulan Bator,Asia,Eastern Asia,3278292,1564110.0,"['UTC+07:00', 'UTC+08:00']",['Mongolian tögrög'],['Mongolian'],"['CHN', 'RUS']",https://flagcdn.com/mn.svg
+Montenegro,ME,MNE,Podgorica,Europe,Southern Europe,621718,13812.0,['UTC+01:00'],['Euro'],"['Serbian', 'Bosnian', 'Albanian', 'Croatian']","['ALB', 'BIH', 'HRV', 'UNK', 'SRB']",https://flagcdn.com/me.svg
+Montserrat,MS,MSR,Plymouth,Americas,Caribbean,4922,102.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/ms.svg
+Morocco,MA,MAR,Rabat,Africa,Northern Africa,36910558,446550.0,['UTC'],['Moroccan dirham'],['Arabic'],"['DZA', 'ESH', 'ESP']",https://flagcdn.com/ma.svg
+Mozambique,MZ,MOZ,Maputo,Africa,Eastern Africa,31255435,801590.0,['UTC+02:00'],['Mozambican metical'],['Portuguese'],"['MWI', 'ZAF', 'SWZ', 'TZA', 'ZMB', 'ZWE']",https://flagcdn.com/mz.svg
+Myanmar,MM,MMR,Naypyidaw,Asia,South-Eastern Asia,54409794,676578.0,['UTC+06:30'],['Burmese kyat'],['Burmese'],"['BGD', 'CHN', 'IND', 'LAO', 'THA']",https://flagcdn.com/mm.svg
+Namibia,NA,NAM,Windhoek,Africa,Southern Africa,2540916,825615.0,['UTC+01:00'],"['Namibian dollar', 'South African rand']","['English', 'Afrikaans']","['AGO', 'BWA', 'ZAF', 'ZMB']",https://flagcdn.com/na.svg
+Nauru,NR,NRU,Yaren,Oceania,Micronesia,10834,21.0,['UTC+12:00'],['Australian dollar'],"['English', 'Nauruan']",,https://flagcdn.com/nr.svg
+Nepal,NP,NPL,Kathmandu,Asia,Southern Asia,29136808,147181.0,['UTC+05:45'],['Nepalese rupee'],['Nepali'],"['CHN', 'IND']",https://flagcdn.com/np.svg
+Netherlands,NL,NLD,Amsterdam,Europe,Western Europe,17441139,41850.0,"['UTC-04:00', 'UTC+01:00']",['Euro'],['Dutch'],"['BEL', 'DEU']",https://flagcdn.com/nl.svg
+New Caledonia,NC,NCL,Nouméa,Oceania,Melanesia,271960,18575.0,['UTC+11:00'],['CFP franc'],['French'],,https://flagcdn.com/nc.svg
+New Zealand,NZ,NZL,Wellington,Oceania,Australia and New Zealand,5084300,270467.0,"['UTC-11:00', 'UTC-10:00', 'UTC+12:00', 'UTC+12:45', 'UTC+13:00']",['New Zealand dollar'],"['English', 'Māori']",,https://flagcdn.com/nz.svg
+Nicaragua,NI,NIC,Managua,Americas,Central America,6624554,130373.0,['UTC-06:00'],['Nicaraguan córdoba'],['Spanish'],"['CRI', 'HND']",https://flagcdn.com/ni.svg
+Niger,NE,NER,Niamey,Africa,Western Africa,24206636,1267000.0,['UTC+01:00'],['West African CFA franc'],['French'],"['DZA', 'BEN', 'BFA', 'TCD', 'LBY', 'MLI', 'NGA']",https://flagcdn.com/ne.svg
+Nigeria,NG,NGA,Abuja,Africa,Western Africa,206139587,923768.0,['UTC+01:00'],['Nigerian naira'],['English'],"['BEN', 'CMR', 'TCD', 'NER']",https://flagcdn.com/ng.svg
+Niue,NU,NIU,Alofi,Oceania,Polynesia,1470,260.0,['UTC-11:00'],"['New Zealand dollar', 'Niue dollar']",['English'],,https://flagcdn.com/nu.svg
+Norfolk Island,NF,NFK,Kingston,Oceania,Australia and New Zealand,2302,36.0,['UTC+11:30'],['Australian dollar'],['English'],,https://flagcdn.com/nf.svg
+Korea (Democratic People's Republic of),KP,PRK,Pyongyang,Asia,Eastern Asia,25778815,120538.0,['UTC+09:00'],['North Korean won'],['Korean'],"['CHN', 'KOR', 'RUS']",https://flagcdn.com/kp.svg
+Northern Mariana Islands,MP,MNP,Saipan,Oceania,Micronesia,57557,464.0,['UTC+10:00'],['United States dollar'],"['English', 'Chamorro']",,https://flagcdn.com/mp.svg
+Norway,NO,NOR,Oslo,Europe,Northern Europe,5379475,323802.0,['UTC+01:00'],['Norwegian krone'],"['Norwegian', 'Norwegian Bokmål', 'Norwegian Nynorsk']","['FIN', 'SWE', 'RUS']",https://flagcdn.com/no.svg
+Oman,OM,OMN,Muscat,Asia,Western Asia,5106622,309500.0,['UTC+04:00'],['Omani rial'],['Arabic'],"['SAU', 'ARE', 'YEM']",https://flagcdn.com/om.svg
+Pakistan,PK,PAK,Islamabad,Asia,Southern Asia,220892331,881912.0,['UTC+05:00'],['Pakistani rupee'],"['Urdu', 'English']","['AFG', 'CHN', 'IND', 'IRN']",https://flagcdn.com/pk.svg
+Palau,PW,PLW,Ngerulmud,Oceania,Micronesia,18092,459.0,['UTC+09:00'],['United States dollar'],['English'],,https://flagcdn.com/pw.svg
+"Palestine, State of",PS,PSE,Ramallah,Asia,Western Asia,4803269,,['UTC+02:00'],"['Egyptian pound', 'Israeli new shekel', 'Jordanian dinar']",['Arabic'],"['ISR', 'EGY', 'JOR']",https://flagcdn.com/ps.svg
+Panama,PA,PAN,Panama City,Americas,Central America,4314768,75417.0,['UTC-05:00'],"['Panamanian balboa', 'United States dollar']",['Spanish'],"['COL', 'CRI']",https://flagcdn.com/pa.svg
+Papua New Guinea,PG,PNG,Port Moresby,Oceania,Melanesia,8947027,462840.0,['UTC+10:00'],['Papua New Guinean kina'],['English'],['IDN'],https://flagcdn.com/pg.svg
+Paraguay,PY,PRY,Asunción,Americas,South America,7132530,406752.0,['UTC-04:00'],['Paraguayan guaraní'],"['Spanish', 'Guaraní']","['ARG', 'BOL', 'BRA']",https://flagcdn.com/py.svg
+Peru,PE,PER,Lima,Americas,South America,32971846,1285216.0,['UTC-05:00'],['Peruvian sol'],['Spanish'],"['BOL', 'BRA', 'CHL', 'COL', 'ECU']",https://flagcdn.com/pe.svg
+Philippines,PH,PHL,Manila,Asia,South-Eastern Asia,109581085,342353.0,['UTC+08:00'],['Philippine peso'],['English'],,https://flagcdn.com/ph.svg
+Pitcairn,PN,PCN,Adamstown,Oceania,Polynesia,56,47.0,['UTC-08:00'],"['New Zealand dollar', 'Pitcairn Islands dollar']",['English'],,https://flagcdn.com/pn.svg
+Poland,PL,POL,Warsaw,Europe,Central Europe,37950802,312679.0,['UTC+01:00'],['Polish złoty'],['Polish'],"['BLR', 'CZE', 'DEU', 'LTU', 'RUS', 'SVK', 'UKR']",https://flagcdn.com/pl.svg
+Portugal,PT,PRT,Lisbon,Europe,Southern Europe,10305564,92090.0,"['UTC-01:00', 'UTC']",['Euro'],['Portuguese'],['ESP'],https://flagcdn.com/pt.svg
+Puerto Rico,PR,PRI,San Juan,Americas,Caribbean,3194034,8870.0,['UTC-04:00'],['United States dollar'],"['Spanish', 'English']",,https://flagcdn.com/pr.svg
+Qatar,QA,QAT,Doha,Asia,Western Asia,2881060,11586.0,['UTC+03:00'],['Qatari riyal'],['Arabic'],['SAU'],https://flagcdn.com/qa.svg
+Republic of Kosovo,XK,UNK,Pristina,Europe,Eastern Europe,1775378,10908.0,['UTC+01:00'],['Euro'],"['Albanian', 'Serbian']","['ALB', 'MKD', 'MNE', 'SRB']",https://flagcdn.com/xk.svg
+Réunion,RE,REU,Saint-Denis,Africa,Eastern Africa,840974,,['UTC+04:00'],['Euro'],['French'],,https://flagcdn.com/re.svg
+Romania,RO,ROU,Bucharest,Europe,Eastern Europe,19286123,238391.0,['UTC+02:00'],['Romanian leu'],['Romanian'],"['BGR', 'HUN', 'MDA', 'SRB', 'UKR']",https://flagcdn.com/ro.svg
+Russian Federation,RU,RUS,Moscow,Europe,Eastern Europe,144104080,17124442.0,"['UTC+03:00', 'UTC+04:00', 'UTC+06:00', 'UTC+07:00', 'UTC+08:00', 'UTC+09:00', 'UTC+10:00', 'UTC+11:00', 'UTC+12:00']",['Russian ruble'],['Russian'],"['AZE', 'BLR', 'CHN', 'EST', 'FIN', 'GEO', 'KAZ', 'PRK', 'LVA', 'LTU', 'MNG', 'NOR', 'POL', 'UKR']",https://flagcdn.com/ru.svg
+Rwanda,RW,RWA,Kigali,Africa,Eastern Africa,12952209,26338.0,['UTC+02:00'],['Rwandan franc'],"['Kinyarwanda', 'English', 'French']","['BDI', 'COD', 'TZA', 'UGA']",https://flagcdn.com/rw.svg
+Saint Barthélemy,BL,BLM,Gustavia,Americas,Caribbean,9417,21.0,['UTC-04:00'],['Euro'],['French'],,https://flagcdn.com/bl.svg
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Jamestown,Africa,Western Africa,4255,,['UTC+00:00'],['Saint Helena pound'],['English'],,https://flagcdn.com/sh.svg
+Saint Kitts and Nevis,KN,KNA,Basseterre,Americas,Caribbean,53192,261.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/kn.svg
+Saint Lucia,LC,LCA,Castries,Americas,Caribbean,183629,616.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/lc.svg
+Saint Martin (French part),MF,MAF,Marigot,Americas,Caribbean,38659,53.0,['UTC-04:00'],['Euro'],"['English', 'French', 'Dutch']","['SXM', 'NLD']",https://flagcdn.com/mf.svg
+Saint Pierre and Miquelon,PM,SPM,Saint-Pierre,Americas,Northern America,6069,242.0,['UTC-03:00'],['Euro'],['French'],,https://flagcdn.com/pm.svg
+Saint Vincent and the Grenadines,VC,VCT,Kingstown,Americas,Caribbean,110947,389.0,['UTC-04:00'],['East Caribbean dollar'],['English'],,https://flagcdn.com/vc.svg
+Samoa,WS,WSM,Apia,Oceania,Polynesia,198410,2842.0,['UTC+13:00'],['Samoan tālā'],"['Samoan', 'English']",,https://flagcdn.com/ws.svg
+San Marino,SM,SMR,City of San Marino,Europe,Southern Europe,33938,61.0,['UTC+01:00'],['Euro'],['Italian'],['ITA'],https://flagcdn.com/sm.svg
+Sao Tome and Principe,ST,STP,São Tomé,Africa,Middle Africa,219161,964.0,['UTC'],['São Tomé and Príncipe dobra'],['Portuguese'],,https://flagcdn.com/st.svg
+Saudi Arabia,SA,SAU,Riyadh,Asia,Western Asia,34813867,2149690.0,['UTC+03:00'],['Saudi riyal'],['Arabic'],"['IRQ', 'JOR', 'KWT', 'OMN', 'QAT', 'ARE', 'YEM']",https://flagcdn.com/sa.svg
+Senegal,SN,SEN,Dakar,Africa,Western Africa,16743930,196722.0,['UTC'],['West African CFA franc'],['French'],"['GMB', 'GIN', 'GNB', 'MLI', 'MRT']",https://flagcdn.com/sn.svg
+Serbia,RS,SRB,Belgrade,Europe,Southern Europe,6908224,88361.0,['UTC+01:00'],['Serbian dinar'],['Serbian'],"['BIH', 'BGR', 'HRV', 'HUN', 'UNK', 'MKD', 'MNE', 'ROU']",https://flagcdn.com/rs.svg
+Seychelles,SC,SYC,Victoria,Africa,Eastern Africa,98462,452.0,['UTC+04:00'],['Seychellois rupee'],"['French', 'English']",,https://flagcdn.com/sc.svg
+Sierra Leone,SL,SLE,Freetown,Africa,Western Africa,7976985,71740.0,['UTC'],['Sierra Leonean leone'],['English'],"['GIN', 'LBR']",https://flagcdn.com/sl.svg
+Singapore,SG,SGP,Singapore,Asia,South-Eastern Asia,5685807,710.0,['UTC+08:00'],['Singapore dollar'],"['English', 'Malay', 'Tamil', 'Chinese']",,https://flagcdn.com/sg.svg
+Sint Maarten (Dutch part),SX,SXM,Philipsburg,Americas,Caribbean,40812,34.0,['UTC-04:00'],['Netherlands Antillean guilder'],"['Dutch', 'English']",['MAF'],https://flagcdn.com/sx.svg
+Slovakia,SK,SVK,Bratislava,Europe,Central Europe,5458827,49037.0,['UTC+01:00'],['Euro'],['Slovak'],"['AUT', 'CZE', 'HUN', 'POL', 'UKR']",https://flagcdn.com/sk.svg
+Slovenia,SI,SVN,Ljubljana,Europe,Southern Europe,2100126,20273.0,['UTC+01:00'],['Euro'],['Slovene'],"['AUT', 'HRV', 'ITA', 'HUN']",https://flagcdn.com/si.svg
+Solomon Islands,SB,SLB,Honiara,Oceania,Melanesia,686878,28896.0,['UTC+11:00'],['Solomon Islands dollar'],['English'],,https://flagcdn.com/sb.svg
+Somalia,SO,SOM,Mogadishu,Africa,Eastern Africa,15893219,637657.0,['UTC+03:00'],['Somali shilling'],"['Somali', 'Arabic']","['DJI', 'ETH', 'KEN']",https://flagcdn.com/so.svg
+South Africa,ZA,ZAF,Pretoria,Africa,Southern Africa,59308690,1221037.0,['UTC+02:00'],['South African rand'],"['Afrikaans', 'English', 'Southern Ndebele', 'Southern Sotho', 'Swati', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zulu']","['BWA', 'LSO', 'MOZ', 'NAM', 'SWZ', 'ZWE']",https://flagcdn.com/za.svg
+South Georgia and the South Sandwich Islands,GS,SGS,King Edward Point,Americas,South America,30,,['UTC-02:00'],['Falkland Islands Pound'],['English'],,https://flagcdn.com/gs.svg
+Korea (Republic of),KR,KOR,Seoul,Asia,Eastern Asia,51780579,100210.0,['UTC+09:00'],['South Korean won'],['Korean'],['PRK'],https://flagcdn.com/kr.svg
+Spain,ES,ESP,Madrid,Europe,Southern Europe,47351567,505992.0,"['UTC', 'UTC+01:00']",['Euro'],['Spanish'],"['AND', 'FRA', 'GIB', 'PRT', 'MAR']",https://flagcdn.com/es.svg
+Sri Lanka,LK,LKA,Sri Jayawardenepura Kotte,Asia,Southern Asia,21919000,65610.0,['UTC+05:30'],['Sri Lankan rupee'],"['Sinhalese', 'Tamil']",['IND'],https://flagcdn.com/lk.svg
+Sudan,SD,SDN,Khartoum,Africa,Northern Africa,43849269,1886068.0,['UTC+03:00'],['Sudanese pound'],"['Arabic', 'English']","['CAF', 'TCD', 'EGY', 'ERI', 'ETH', 'LBY', 'SSD']",https://flagcdn.com/sd.svg
+South Sudan,SS,SSD,Juba,Africa,Middle Africa,11193729,619745.0,['UTC+03:00'],['South Sudanese pound'],['English'],"['CAF', 'COD', 'ETH', 'KEN', 'SDN', 'UGA']",https://flagcdn.com/ss.svg
+Suriname,SR,SUR,Paramaribo,Americas,South America,586634,163820.0,['UTC-03:00'],['Surinamese dollar'],['Dutch'],"['BRA', 'FRA', 'GUF', 'GUY']",https://flagcdn.com/sr.svg
+Svalbard and Jan Mayen,SJ,SJM,Longyearbyen,Europe,Northern Europe,2562,,['UTC+01:00'],['Norwegian krone'],['Norwegian'],,https://flagcdn.com/sj.svg
+Swaziland,SZ,SWZ,Mbabane,Africa,Southern Africa,1160164,17364.0,['UTC+02:00'],['Swazi lilangeni'],"['English', 'Swati']","['MOZ', 'ZAF']",https://flagcdn.com/sz.svg
+Sweden,SE,SWE,Stockholm,Europe,Northern Europe,10353442,450295.0,['UTC+01:00'],['Swedish krona'],['Swedish'],"['FIN', 'NOR']",https://flagcdn.com/se.svg
+Switzerland,CH,CHE,Bern,Europe,Central Europe,8636896,41284.0,['UTC+01:00'],['Swiss franc'],"['German', 'French', 'Italian', 'Romansh']","['AUT', 'FRA', 'ITA', 'LIE', 'DEU']",https://flagcdn.com/ch.svg
+Syrian Arab Republic,SY,SYR,Damascus,Asia,Western Asia,17500657,185180.0,['UTC+02:00'],['Syrian pound'],['Arabic'],"['IRQ', 'ISR', 'JOR', 'LBN', 'TUR']",https://flagcdn.com/sy.svg
+Taiwan,TW,TWN,Taipei,Asia,Eastern Asia,23503349,36193.0,['UTC+08:00'],['New Taiwan dollar'],['Chinese'],,https://flagcdn.com/tw.svg
+Tajikistan,TJ,TJK,Dushanbe,Asia,Central Asia,9537642,143100.0,['UTC+05:00'],['Tajikistani somoni'],"['Tajik', 'Russian']","['AFG', 'CHN', 'KGZ', 'UZB']",https://flagcdn.com/tj.svg
+"Tanzania, United Republic of",TZ,TZA,Dodoma,Africa,Eastern Africa,59734213,945087.0,['UTC+03:00'],['Tanzanian shilling'],"['Swahili', 'English']","['BDI', 'COD', 'KEN', 'MWI', 'MOZ', 'RWA', 'UGA', 'ZMB']",https://flagcdn.com/tz.svg
+Thailand,TH,THA,Bangkok,Asia,South-Eastern Asia,69799978,513120.0,['UTC+07:00'],['Thai baht'],['Thai'],"['MMR', 'KHM', 'LAO', 'MYS']",https://flagcdn.com/th.svg
+Timor-Leste,TL,TLS,Dili,Asia,South-Eastern Asia,1318442,14874.0,['UTC+09:00'],['United States Dollar'],['Portuguese'],['IDN'],https://flagcdn.com/tl.svg
+Togo,TG,TGO,Lomé,Africa,Western Africa,8278737,56785.0,['UTC'],['West African CFA franc'],['French'],"['BEN', 'BFA', 'GHA']",https://flagcdn.com/tg.svg
+Tokelau,TK,TKL,Fakaofo,Oceania,Polynesia,1411,12.0,['UTC+13:00'],['New Zealand dollar'],['English'],,https://flagcdn.com/tk.svg
+Tonga,TO,TON,Nuku'alofa,Oceania,Polynesia,105697,747.0,['UTC+13:00'],['Tongan paʻanga'],"['English', 'Tonga (Tonga Islands)']",,https://flagcdn.com/to.svg
+Trinidad and Tobago,TT,TTO,Port of Spain,Americas,Caribbean,1399491,5130.0,['UTC-04:00'],['Trinidad and Tobago dollar'],['English'],,https://flagcdn.com/tt.svg
+Tunisia,TN,TUN,Tunis,Africa,Northern Africa,11818618,163610.0,['UTC+01:00'],['Tunisian dinar'],['Arabic'],"['DZA', 'LBY']",https://flagcdn.com/tn.svg
+Turkey,TR,TUR,Ankara,Asia,Western Asia,84339067,783562.0,['UTC+03:00'],['Turkish lira'],['Turkish'],"['ARM', 'AZE', 'BGR', 'GEO', 'GRC', 'IRN', 'IRQ', 'SYR']",https://flagcdn.com/tr.svg
+Turkmenistan,TM,TKM,Ashgabat,Asia,Central Asia,6031187,488100.0,['UTC+05:00'],['Turkmenistan manat'],"['Turkmen', 'Russian']","['AFG', 'IRN', 'KAZ', 'UZB']",https://flagcdn.com/tm.svg
+Turks and Caicos Islands,TC,TCA,Cockburn Town,Americas,Caribbean,38718,948.0,['UTC-04:00'],['United States dollar'],['English'],,https://flagcdn.com/tc.svg
+Tuvalu,TV,TUV,Funafuti,Oceania,Polynesia,11792,26.0,['UTC+12:00'],"['Australian dollar', 'Tuvaluan dollar']",['English'],,https://flagcdn.com/tv.svg
+Uganda,UG,UGA,Kampala,Africa,Eastern Africa,45741000,241550.0,['UTC+03:00'],['Ugandan shilling'],"['English', 'Swahili']","['COD', 'KEN', 'RWA', 'SSD', 'TZA']",https://flagcdn.com/ug.svg
+Ukraine,UA,UKR,Kyiv,Europe,Eastern Europe,44134693,603700.0,['UTC+02:00'],['Ukrainian hryvnia'],['Ukrainian'],"['BLR', 'HUN', 'MDA', 'POL', 'ROU', 'RUS', 'SVK']",https://flagcdn.com/ua.svg
+United Arab Emirates,AE,ARE,Abu Dhabi,Asia,Western Asia,9890400,83600.0,['UTC+04:00'],['United Arab Emirates dirham'],['Arabic'],"['OMN', 'SAU']",https://flagcdn.com/ae.svg
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,London,Europe,Northern Europe,67215293,242900.0,"['UTC-08:00', 'UTC-05:00', 'UTC-04:00', 'UTC-03:00', 'UTC-02:00', 'UTC', 'UTC+01:00', 'UTC+02:00', 'UTC+06:00']",['British pound'],['English'],['IRL'],https://flagcdn.com/gb.svg
+United States of America,US,USA,"Washington, D.C.",Americas,Northern America,329484123,9629091.0,"['UTC-12:00', 'UTC-11:00', 'UTC-10:00', 'UTC-09:00', 'UTC-08:00', 'UTC-07:00', 'UTC-06:00', 'UTC-05:00', 'UTC-04:00', 'UTC+10:00', 'UTC+12:00']",['United States dollar'],['English'],"['CAN', 'MEX']",https://flagcdn.com/us.svg
+Uruguay,UY,URY,Montevideo,Americas,South America,3473727,181034.0,['UTC-03:00'],['Uruguayan peso'],['Spanish'],"['ARG', 'BRA']",https://flagcdn.com/uy.svg
+Uzbekistan,UZ,UZB,Tashkent,Asia,Central Asia,34232050,447400.0,['UTC+05:00'],"[""Uzbekistani so'm""]","['Uzbek', 'Russian']","['AFG', 'KAZ', 'KGZ', 'TJK', 'TKM']",https://flagcdn.com/uz.svg
+Vanuatu,VU,VUT,Port Vila,Oceania,Melanesia,307150,12189.0,['UTC+11:00'],['Vanuatu vatu'],"['Bislama', 'English', 'French']",,https://flagcdn.com/vu.svg
+Venezuela (Bolivarian Republic of),VE,VEN,Caracas,Americas,South America,28435943,916445.0,['UTC-04:00'],['Venezuelan bolívar'],['Spanish'],"['BRA', 'COL', 'GUY']",https://flagcdn.com/ve.svg
+Vietnam,VN,VNM,Hanoi,Asia,South-Eastern Asia,97338583,331212.0,['UTC+07:00'],['Vietnamese đồng'],['Vietnamese'],"['KHM', 'CHN', 'LAO']",https://flagcdn.com/vn.svg
+Wallis and Futuna,WF,WLF,Mata-Utu,Oceania,Polynesia,11750,142.0,['UTC+12:00'],['CFP franc'],['French'],,https://flagcdn.com/wf.svg
+Western Sahara,EH,ESH,El Aaiún,Africa,Northern Africa,510713,266000.0,['UTC+00:00'],"['Moroccan dirham', 'Algerian dinar']",['Spanish'],"['DZA', 'MRT', 'MAR']",https://flagcdn.com/eh.svg
+Yemen,YE,YEM,Sana'a,Asia,Western Asia,29825968,527968.0,['UTC+03:00'],['Yemeni rial'],['Arabic'],"['OMN', 'SAU']",https://flagcdn.com/ye.svg
+Zambia,ZM,ZMB,Lusaka,Africa,Eastern Africa,18383956,752618.0,['UTC+02:00'],['Zambian kwacha'],['English'],"['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']",https://flagcdn.com/zm.svg
+Zimbabwe,ZW,ZWE,Harare,Africa,Southern Africa,14862927,390757.0,['UTC+02:00'],['Zambian kwacha'],"['English', 'Shona', 'Northern Ndebele']","['BWA', 'MOZ', 'ZAF', 'ZMB']",https://flagcdn.com/zw.svg
