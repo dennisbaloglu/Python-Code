@@ -27,3 +27,16 @@ streamlit
 voila
 jupyterlab
 ipywidgets
+dask
+bayespy
+pygal
+ethicml
+h2o
+tsfresh
+mlflow
+mito
+opencv
+py-why
+shap
+geopandas
+sqlalchemy
