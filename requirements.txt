@@ -38,3 +38,5 @@ py-why
 shap
 geopandas
 sqlalchemy
+Pillow
+mahotas
