@@ -43,3 +43,4 @@ Pillow
 mahotas
 networkx
 pygraphviz
+prophet
