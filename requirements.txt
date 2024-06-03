@@ -41,3 +41,5 @@ geopandas
 sqlalchemy
 Pillow
 mahotas
+networkx
+pygraphviz
