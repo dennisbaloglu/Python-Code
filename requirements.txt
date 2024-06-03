@@ -9,6 +9,7 @@ altair
 holoviews
 scipy
 scikit-learn
+skimage
 tensorflow
 keras
 pytorch
